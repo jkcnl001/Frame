@@ -1,0 +1,16 @@
+{
+  "ver": "1.1.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "0c995359-e385-4410-b522-374a4662315d",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "compressionType": {},
+    "isRemoteBundle": {
+      "web-desktop": false
+    },
+    "isBundle": false,
+    "bundleName": "HotUpdate"
+  }
+}

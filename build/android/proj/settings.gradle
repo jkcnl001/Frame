@@ -1,0 +1,4 @@
+include '::libcocos',':libservice',':instantapp',':Frame'
+project(':libcocos').projectDir = new File('D:/CocosDashboard_1.0.12/resources/.editors/Creator/3.0.1/resources/resources/3d/cocos2d-x-lite/cocos/platform/android/libcocos2dx')
+project(':instantapp').projectDir = new File('E:/github/Frame/native/engine/android/instantapp')
+project(':Frame').projectDir = new File('E:/github/Frame/native/engine/android/app')
